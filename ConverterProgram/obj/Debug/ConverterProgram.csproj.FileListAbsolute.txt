@@ -1,0 +1,9 @@
+c:\users\dev\documents\visual studio 2015\Projects\ConverterProgram\ConverterProgram\bin\Debug\ConverterProgram.exe.config
+c:\users\dev\documents\visual studio 2015\Projects\ConverterProgram\ConverterProgram\bin\Debug\ConverterProgram.exe
+c:\users\dev\documents\visual studio 2015\Projects\ConverterProgram\ConverterProgram\bin\Debug\ConverterProgram.pdb
+c:\users\dev\documents\visual studio 2015\Projects\ConverterProgram\ConverterProgram\obj\Debug\ConverterProgram.csprojResolveAssemblyReference.cache
+c:\users\dev\documents\visual studio 2015\Projects\ConverterProgram\ConverterProgram\obj\Debug\ConverterProgram.Properties.Resources.resources
+c:\users\dev\documents\visual studio 2015\Projects\ConverterProgram\ConverterProgram\obj\Debug\ConverterProgram.csproj.GenerateResource.Cache
+c:\users\dev\documents\visual studio 2015\Projects\ConverterProgram\ConverterProgram\obj\Debug\ConverterProgram.exe
+c:\users\dev\documents\visual studio 2015\Projects\ConverterProgram\ConverterProgram\obj\Debug\ConverterProgram.pdb
+c:\users\dev\documents\visual studio 2015\Projects\ConverterProgram\ConverterProgram\obj\Debug\ConverterProgram.Converter.resources

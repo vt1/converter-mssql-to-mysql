@@ -19,7 +19,7 @@ namespace ConverterProgram
 
         public void createConnection()
         {
-            connectionString = "Initial Catalog=odbo;Data Source=(local);Integrated Security=SSPI;";
+            connectionString = "Initial Catalog=*****;Data Source=(local);Integrated Security=SSPI;";
             cnn = new SqlConnection(connectionString);
             try
             {                
